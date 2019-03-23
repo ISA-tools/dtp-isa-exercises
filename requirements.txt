@@ -29,7 +29,7 @@ jupyter-dashboards==0.7.0
 jupyter-nbextensions-configurator==0.2.5
 lxml==4.0.0
 MarkupSafe==1.0
-mistune==0.7.4
+mistune>=0.8.1
 mzml2isa==0.5.1
 nbconvert==5.2.1
 nbextensions==0.0.6
@@ -49,7 +49,7 @@ Pygments==2.2.0
 python-dateutil==2.6.1
 python-utils==2.2.0
 pytz==2017.2
-PyYAML==3.12
+pyyaml>=4.2b1
 pyzmq>=17
 qgrid==0.3.3
 requests>=2.20.0
@@ -59,7 +59,7 @@ terminado>=0.8.1
 testpath==0.3.1
 tornado
 traitlets==4.3.2
-urllib3==1.22
+urllib3>=1.23
 wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension>=3.4.0
